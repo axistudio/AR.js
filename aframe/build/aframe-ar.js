@@ -5251,7 +5251,7 @@ ARjs.Context = THREEx.ArToolkitContext = function(parameters){
 
 Object.assign( ARjs.Context.prototype, THREE.EventDispatcher.prototype );
 
-// ARjs.Context.baseURL = '../'
+// ARjs.Context.baseURL = '../../three.js/'
 // default to github page
 ARjs.Context.baseURL = 'https://jeromeetienne.github.io/AR.js/three.js/'
 ARjs.Context.REVISION = '1.6.2'
